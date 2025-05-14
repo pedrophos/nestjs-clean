@@ -14,6 +14,5 @@ import { HttpModule } from './http/http.module'
     AuthModule,
     HttpModule,
   ],
-  providers: [PrismaService],
 })
 export class AppModule {}
